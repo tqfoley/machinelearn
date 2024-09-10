@@ -1,4 +1,4 @@
 # machinelearn
-Machine learning
+Machine learning stuff
 
 Pythorch
